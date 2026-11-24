@@ -1,0 +1,7 @@
+*.ipynb text eol=lf working-tree-encoding=UTF-8
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+
+# raw instrument exports (Windows CRLF): store byte-exact, no line-ending normalisation
+data/Ambr_Bioprofile/*.csv -text -eol

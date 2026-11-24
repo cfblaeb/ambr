@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.python-version
+.venv
+uv.lock
+analysis_outputs/
